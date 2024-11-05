@@ -1,4 +1,4 @@
-# Solution - DVD Console Application
+# DVD Console Application
 
 This Java console application reads and displays DVD information, demonstrating object-oriented principles like inheritance, abstract classes, and interfaces, as well as file handling with exception management. The project is organized in the `Solution` package and follows the Allman style for code formatting.
 
